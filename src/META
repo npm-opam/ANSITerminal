@@ -1,0 +1,13 @@
+# OASIS_START
+# DO NOT EDIT (digest: fc545e72efd598dec95c9b0034945540)
+version = "0.7"
+description =
+"Basic control of ANSI compliant terminals and the windows shell."
+requires = "unix bytes"
+archive(byte) = "ANSITerminal.cma"
+archive(byte, plugin) = "ANSITerminal.cma"
+archive(native) = "ANSITerminal.cmxa"
+archive(native, plugin) = "ANSITerminal.cmxs"
+exists_if = "ANSITerminal.cma"
+# OASIS_STOP
+

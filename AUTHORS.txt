@@ -1,0 +1,13 @@
+(* OASIS_START *)
+(* DO NOT EDIT (digest: 0a9588c80875bbd97ac6cb25b04cad29) *)
+
+Authors of ANSITerminal:
+
+* Christophe Troestler
+* Vincent Hugot
+
+Current maintainers of ANSITerminal:
+
+* Christophe Troestler <Christophe.Troestler@umons.ac.be>
+
+(* OASIS_STOP *)
